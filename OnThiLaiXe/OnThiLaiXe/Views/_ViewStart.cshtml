@@ -1,0 +1,7 @@
+﻿@* @{
+    Layout = "_Layout";
+} *@
+
+@{
+    Layout = User.IsInRole("Admin") ? "~/Areas/Admin/Views/Shared/_Layout.cshtml" : "_Layout";
+}
