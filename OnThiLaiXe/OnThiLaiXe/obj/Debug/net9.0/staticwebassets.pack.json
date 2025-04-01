@@ -1,0 +1,497 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\OnThiLaiXe.bundle.scp.css",
+      "PackagePath": "staticwebassets\\OnThiLaiXe.7r850fckp9.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\assets\\css\\animated.css",
+      "PackagePath": "staticwebassets\\assets\\css\\animated.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\assets\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\assets\\css\\owl.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\assets\\css\\templatemo-seo-dream.css",
+      "PackagePath": "staticwebassets\\assets\\css\\templatemo-seo-dream.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\assets\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\assets\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\assets\\fonts\\flexslider-icon.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flexslider-icon.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\assets\\fonts\\flexslider-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flexslider-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\assets\\fonts\\flexslider-icon.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flexslider-icon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\assets\\fonts\\flexslider-icon.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flexslider-icon.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\assets\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\assets\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\assets\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\assets\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\assets\\images\\12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\assets\\images\\13.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\assets\\images\\14.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\assets\\images\\15.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\assets\\images\\444.png",
+      "PackagePath": "staticwebassets\\assets\\images\\444.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\assets\\images\\about-left-image.png",
+      "PackagePath": "staticwebassets\\assets\\images\\about-left-image.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\assets\\images\\banner-dec-left.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-dec-left.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\assets\\images\\contact-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\contact-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\assets\\images\\features-number-01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\features-number-01.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\assets\\images\\features-number-02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\features-number-02.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\assets\\images\\features-number-03.png",
+      "PackagePath": "staticwebassets\\assets\\images\\features-number-03.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\assets\\images\\features-number-04.png",
+      "PackagePath": "staticwebassets\\assets\\images\\features-number-04.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\assets\\images\\logo-icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\assets\\js\\animation.js",
+      "PackagePath": "staticwebassets\\assets\\js\\animation.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\assets\\js\\imagesloaded.js",
+      "PackagePath": "staticwebassets\\assets\\js\\imagesloaded.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\assets\\js\\isotope.js",
+      "PackagePath": "staticwebassets\\assets\\js\\isotope.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\assets\\js\\owl-carousel.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl-carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\assets\\js\\tabs.js",
+      "PackagePath": "staticwebassets\\assets\\js\\tabs.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\css\\Giadienthi.css",
+      "PackagePath": "staticwebassets\\css\\Giadienthi.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\css\\KetQua.css",
+      "PackagePath": "staticwebassets\\css\\KetQua.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\images\\download (1).jpg",
+      "PackagePath": "staticwebassets\\images\\download (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\images\\giay1.jpg",
+      "PackagePath": "staticwebassets\\images\\giay1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\images\\giay2.jpg",
+      "PackagePath": "staticwebassets\\images\\giay2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\vendor\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\vendor\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\vendor\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\vendor\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\vendor\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\OneDrive\\Máy tính\\OnThiLaiXe\\OnThiLaiXe\\OnThiLaiXe\\wwwroot\\vendor\\jquery\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.OnThiLaiXe.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.OnThiLaiXe.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.OnThiLaiXe.props",
+      "PackagePath": "build\\OnThiLaiXe.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.OnThiLaiXe.props",
+      "PackagePath": "buildMultiTargeting\\OnThiLaiXe.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.OnThiLaiXe.props",
+      "PackagePath": "buildTransitive\\OnThiLaiXe.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

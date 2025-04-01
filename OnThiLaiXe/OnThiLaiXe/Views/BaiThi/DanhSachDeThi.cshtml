@@ -1,0 +1,104 @@
+﻿@model List<BaiThi>
+
+@using Microsoft.AspNetCore.Http
+@inject IHttpContextAccessor HttpContextAccessor
+
+@{
+    var user = HttpContextAccessor.HttpContext.User;
+    var isAuthenticated = user.Identity.IsAuthenticated;
+
+    // Nhóm bài thi theo loại bằng lái
+    var baiThiTheoLoai = Model
+        .Where(bt => bt.ChiTietBaiThis != null && bt.ChiTietBaiThis.Any(ct => ct.CauHoi.LoaiBangLai != null))
+        .GroupBy(bt => bt.ChiTietBaiThis
+                        .Select(ct => ct.CauHoi.LoaiBangLai.TenLoai)
+                        .FirstOrDefault() ?? "Không xác định")
+        .OrderBy(g => g.Key);
+}
+
+<div class="container mt-4">
+    <div class="text-center mb-4">
+        <h2 class="text-primary fw-bold">📋 Danh Sách Đề Thi</h2>
+        <p class="text-muted">
+            Các đề có dấu <span class="text-success fw-bold">★</span> là các đề được tạo với nhóm câu hỏi hoàn toàn khác nhau.
+        </p>
+    </div>
+
+    @if (baiThiTheoLoai.Any())
+    {
+        @foreach (var group in baiThiTheoLoai)
+        {
+            <div class="loai-bang-group">
+                <h3 class="text-success fw-bold"><i class="fas fa-id-card"></i> @group.Key</h3>
+                <div class="row mt-2">
+                    @foreach (var baiThi in group)
+                    {
+                        <div class="col-md-4 col-lg-3 mb-3">
+                            <div class="card custom-card shadow">
+                                <div class="card-body text-center">
+                                    <h5 class="card-title custom-title">
+                                        <span class="text-green">★</span> ĐỀ SỐ @baiThi.Id
+                                    </h5>
+                                    <a asp-controller="BaiThi" asp-action="LamBaiThi" asp-route-id="@baiThi.Id"
+                                       class="btn custom-btn w-100 mt-2 fw-bold">
+                                        <i class="fas fa-edit"></i> Làm Bài Thi
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                </div>
+            </div>
+        }
+    }
+    else
+    {
+        <p class="text-center text-danger fw-bold mt-4">⚠️ Không có bài thi nào được tìm thấy.</p>
+    }
+</div>
+
+<style>
+    /* Khoảng cách giữa các nhóm loại bằng */
+    .loai-bang-group {
+        margin-top: 40px;
+    }
+
+    /* Thiết kế card */
+    .custom-card {
+        border-radius: 12px;
+        padding: 15px;
+        height: 120px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        transition: transform 0.2s ease-in-out, box-shadow 0.2s;
+        box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.08);
+    }
+
+        .custom-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.12);
+        }
+
+    /* Đổi màu tiêu đề đề thi */
+    .custom-title {
+        font-weight: bold;
+        color: #20c997;
+    }
+
+    .text-green {
+        color: #20c997;
+        font-weight: bold;
+    }
+
+    /* Nút màu xanh #20c997 */
+    .custom-btn {
+        background-color: #20c997;
+        border: none;
+        color: white;
+    }
+
+        .custom-btn:hover {
+            background-color: #1ba985;
+        }
+</style>
